@@ -1,0 +1,10 @@
+NOTES:
+
+rewrite using zepplin-solidity at some point
+
+
+Requirements:
+- fast user lookups (which tickets belong to person x)
+- zepplin
+- self destruct
+- inharitance
